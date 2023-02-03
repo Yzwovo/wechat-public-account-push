@@ -45,7 +45,7 @@ const TEMPLATE_CONFIG = [
       成功用户: {{success_post_ids.DATA}}
       
       失败用户: {{fail_post_ids.DATA}}
-    `
+    
   },
 ]
 
