@@ -37,11 +37,7 @@ const TEMPLATE_CONFIG = [
   {
     id: '0002',
     title: '推送完成提醒',
-    desc: `
-      
-      
-      ---
-      
+    desc: 
       共推送 {{need_post_num.DATA}} 人
       
       成功: {{success_post_num.DATA}} | 失败: {{fail_post_num.DATA}}
