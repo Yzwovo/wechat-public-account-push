@@ -24,6 +24,12 @@ const TEMPLATE_CONFIG = [
       
       {{birthday_message.DATA}}
       
+      不论我们相隔的距离有多么长 我们的❤都会永远在一起
+      
+      如果让我对你说三个字的话 我想说：我爱你 
+      
+      我爱你一辈子 我知道你也是 
+      
       ---
       
       {{moment_copyrighting.DATA}}
