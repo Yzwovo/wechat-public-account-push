@@ -30,6 +30,7 @@ const TEMPLATE_CONFIG = [
       
       我爱你一辈子 我知道你也是 
       
+      别忘了今天请假去复查哦
       ---
       
       {{moment_copyrighting.DATA}}
